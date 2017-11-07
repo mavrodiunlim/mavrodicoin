@@ -1,4 +1,4 @@
-www.operacoin.rocks
+MavrodiCoin
 ====================
 
 Copyright (c) 2009-2014 Bitcoin Developers
